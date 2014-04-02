@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [wilmoore/brackets2dots.js](http://github.com/wilmoore/brackets2dots.js). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/wilmoore-brackets2dots.js`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # brackets2dots.js [![Build Status](https://travis-ci.org/wilmoore/brackets2dots.js.png?branch=master)](https://travis-ci.org/wilmoore/brackets2dots.js) [![NPM version](https://badge.fury.io/js/brackets2dots.png)](http://badge.fury.io/js/brackets2dots) [![Dependency Status](https://gemnasium.com/wilmoore/brackets2dots.js.svg)](https://gemnasium.com/wilmoore/brackets2dots.js)
 
   Convert string with bracket notation to dot property notation for [Node.js][] and the browser.
